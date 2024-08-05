@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,NodeJs**
 
-- 💬 Ask me about **java, flutter, C#, Javascript**
+- 💬 Ask me about **python, java, flutter, C#, Javascript**
 
 - 📫 How to reach me **sethlovebyiringiro@gmail.com**
 
