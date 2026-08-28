@@ -1,103 +1,70 @@
-# 👋 Hi, I'm Seth Love Byiringiro
+<h1 align="center">Hi 👋, I'm Seth Love Byiringiro</h1>
 
-### Full-Stack Software Engineer | Web Development | APIs & Integration | Cloud & DevOps
+<h3 align="center">Full-Stack Software Engineer from Rwanda 🇷🇼</h3>
 
-I'm a **Full-Stack Software Engineer from Rwanda** with 5+ years of experience designing, developing, deploying, and maintaining scalable web applications and digital platforms.
+<p align="center">
+  Building scalable web applications, APIs, digital platforms, and enterprise solutions.
+</p>
 
-I enjoy building reliable, secure, and maintainable software using modern frontend and backend technologies, with a strong interest in **software architecture, system integration, cloud technologies, and digital innovation**.
-
-### 🚀 What I Do
-
-* Build end-to-end web applications
-* Develop modern frontend applications with **Next.js, React, TypeScript, and JavaScript**
-* Develop backend services using **Nest.js, Node.js, Java, and Spring Boot**
-* Design and integrate **REST APIs**
-* Build and work with **microservices architectures**
-* Design and manage relational and NoSQL databases
-* Containerize applications using **Docker**
-* Deploy and manage applications with **Kubernetes**
-* Build and maintain **CI/CD pipelines**
-* Apply clean code, **SOLID principles, and design patterns**
-* Implement unit, integration, and end-to-end testing
-* Apply secure coding and **OWASP** principles
-* Optimize application performance and implement caching
-* Use AI-assisted development tools to improve productivity and code quality
-
-### 💻 Technology Stack
-
-#### Frontend
-
-`Next.js` `React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
-
-#### Backend
-
-`Nest.js` `Node.js` `Java` `Spring Boot` `Python` `REST APIs`
-
-#### Architecture & Integration
-
-`Microservices` `REST` `GraphQL` `API Design` `System Integration` `Event-Driven Architecture`
-
-#### Databases
-
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `SQL`
-
-#### DevOps & Cloud
-
-`Docker` `Kubernetes` `Git` `GitHub` `GitHub Actions` `GitLab CI/CD` `AWS`
-
-#### Testing & Code Quality
-
-`Jest` `Playwright` `Cypress` `Unit Testing` `Integration Testing` `E2E Testing` `ESLint` `Prettier` `SonarQube`
-
-#### Security
-
-`OWASP` `JWT` `OAuth2` `Authentication` `Authorization` `Secure API Development`
-
-#### AI & Modern Development
-
-`GitHub Copilot` `Claude` `Cursor` `LLM APIs` `Embeddings` `RAG` `Prompt Engineering`
-
-### 🧠 Engineering Principles
-
-I focus on building software that is:
-
-* **Scalable** — capable of growing with changing requirements
-* **Maintainable** — clean, structured, and well-documented
-* **Secure** — developed with security and privacy in mind
-* **Testable** — supported by automated testing
-* **Reliable** — designed for stable production environments
-* **User-focused** — built around real user and business requirements
-
-### 🌱 Currently Exploring
-
-* Advanced **Next.js and React** development
-* **Nest.js** and scalable backend architectures
-* Microservices and distributed systems
-* Cloud-native development and Kubernetes
-* AI-assisted software engineering
-* LLM applications, **RAG, embeddings, and AI integrations**
-* Software architecture and system design
-
-### 🤝 Connect With Me
-
-📧 **Email:** [sethlovebyiringiro@gmail.com](mailto:sethlovebyiringiro@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/seth-love-byiringiro](https://www.linkedin.com/in/seth-love-byiringiro/)
-
-🐙 **GitHub:** [github.com/sethlovebyiringiro](https://github.com/sethlovebyiringiro)
+<p align="center">
+  <a href="https://linkedin.com/in/seth-love-byiringiro/">LinkedIn</a> •
+  <a href="mailto:sethlovebyiringiro@gmail.com">Email</a>
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sethlovebyiringiro&show_icons=true&locale=en" alt="Seth Love Byiringiro GitHub Statistics" />
+* 💻 Full-Stack Software Engineer focused on modern web and enterprise applications
+* ⚡ Experienced with **Next.js, React, TypeScript, Nest.js, Node.js, Java & Spring Boot**
+* 🧩 Interested in **microservices, APIs, system integration, cloud & DevOps**
+* ☁️ Experienced with **Docker, Kubernetes, Git & CI/CD**
+* 🧪 Interested in **automated testing, clean code, secure development & performance**
+* 🤖 Exploring **AI-assisted development, LLMs, embeddings & RAG**
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/></a>
+<a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
+<a href="https://nestjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
+<a href="https://spring.io"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/></a>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
+<a href="https://dotnet.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET"/></a>
+<a href="https://www.cprogramming.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
+<a href="https://learn.microsoft.com/en-us/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
+<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
+<a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/></a>
+<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></a>
+<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" width="40" height="40" alt="Kubernetes"/></a>
+<a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
+<a href="https://www.figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
+<a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></a>
+<a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/></a>
+<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/></a>
+<a href="https://www.djangoproject.com"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/></a>
+<a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/></a>
+<a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/></a>
+<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sethlovebyiringiro&show_icons=true&locale=en&layout=compact" alt="Seth Love Byiringiro Top Languages" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sethlovebyiringiro" alt="Seth Love Byiringiro GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=sethlovebyiringiro&show_icons=true&locale=en" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sethlovebyiringiro&show_icons=true&locale=en&layout=compact" height="160"/>
 </p>
+
+### 🤝 Connect With Me
+
+📧 **[sethlovebyiringiro@gmail.com](mailto:sethlovebyiringiro@gmail.com)**
+💼 **[LinkedIn](https://linkedin.com/in/seth-love-byiringiro/)**
+🐙 **[GitHub](https://github.com/sethlovebyiringiro)**
