@@ -59,16 +59,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sethlovebyiringiro&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlovebyiringiro&layout=compact&langs_count=8&cache_seconds=86400" 
-    height="170"
-    alt="Top Languages"
-  />
+  <img src="./profile/stats.svg" height="170" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="170" alt="Top Languages"/>
 </p>
 
 ### 🤝 Connect With Me
